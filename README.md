@@ -5,7 +5,7 @@
 # Entregables
 
 Analsis: [pdf](./Análisis.pdf)  
-Video:
+Video: [video](https://youtu.be/CHXJZb9L9bE)
 
 Nota: no se porque pide codigo si es seguir una guia que ya traer el codigo pero ni modo
 
